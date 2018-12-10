@@ -16,7 +16,7 @@ you probably want to intsall Python 3 ```
 
 ### Installing
 
-A step by step series of examples that tell you have to get a development env running. Eventually, maybe we could list Python package requirements here. You can remove this section for now, or make a note to yourself to fill it out later.
+Installing is straight forward but making this change to test GIT upload from console
 
 ```
 no real examples
