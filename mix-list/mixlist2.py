@@ -13,6 +13,6 @@ print("the last item in the list (state): "+my_list[2])
 #the "+str(my_list[1])) turned 5060 interger to a list header as opposed to an integer
 
 new_list = [5060, "80", 55, "10.0.0.1", "10.0.2.30", "ssh"]
-print("When i ssh into IP address: " + new_list[3],'or ' + new_list[4] + "i am unable to ping ports:"+ str(new_list[0]) + (new_list[1]),'or' + str(new_list[2]))
+print("When i ssh into IP address: " + new_list[3],'or ' + new_list[4] + "i am unable to ping ports:"+ str(new_list[0]) + (new_list[1]),'or'',' + str(new_list[2]))
 
 
