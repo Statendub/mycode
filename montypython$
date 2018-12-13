@@ -1,0 +1,21 @@
+#!/usr/bin/env python3
+
+#This is short for, ‘else-if’, as in, “our condition wasn’t matched in the if statement, but it maybe matched in this statement”. Here, we want to code what is going to happen if we hit the third round, and the user didn’t type ‘Brian’. We’re still in the while-loop, so indent four spaces.
+
+
+round = 0    #
+while(true):
+    round = round + 1 
+    print('finish the movie title, "monty python\'s the life of ______"')
+    answer = input()
+    if (answer == 'Brian')
+        print('Correct')
+        break
+    elif(round==3):    
+        print('Sorry the answer as Brian')
+        break
+    else:
+        print('Sorry try again')
+
+
+
