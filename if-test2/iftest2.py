@@ -12,7 +12,7 @@
 ipchk = input('Apply an IP address: ') # declaring variable for ipchk 
 
 if ipchk == '192.168.70.0': #if the variable is equal 'then' on next line
-    print('looks like ip addy of the gateway was set to: ' + ipchk + 'this is not recommended.') #indented
+    print('looks like ip addy of the gateway was set to: ' + ipchk + ' this is not recommended.') #indented
 elif ipchk: #if ANY data is provided, this will test true
     print('looks like the ip address was set to: ' + ipchk) #indented
 else: #if data NOT provided
